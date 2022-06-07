@@ -1,7 +1,7 @@
 plotly
 streamlit
 streamlit-aggrid
-snowflake.connector
+snowflake-python-connector
 sqlalchemy
 snowflake-sqlalchemy
 pandas
