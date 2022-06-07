@@ -1,3 +1,8 @@
-altair
-pandas
+plotly
 streamlit
+streamlit-aggrid
+snowflake.connector
+sqlalchemy
+snowflake-sqlalchemy
+pandas
+
