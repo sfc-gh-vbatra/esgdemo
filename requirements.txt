@@ -6,3 +6,4 @@ sqlalchemy
 snowflake-sqlalchemy
 pandas
 wordcloud
+streamlit-wordcloud
