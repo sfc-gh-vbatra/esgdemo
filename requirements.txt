@@ -5,4 +5,4 @@ snowflake.connector
 sqlalchemy
 snowflake-sqlalchemy
 pandas
-
+wordcloud
