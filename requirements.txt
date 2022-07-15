@@ -1,5 +1,5 @@
 plotly
-streamlit
+streamlit==1.10.0
 streamlit-aggrid
 snowflake-connector-python
 sqlalchemy
@@ -7,3 +7,4 @@ snowflake-sqlalchemy
 pandas
 wordcloud
 streamlit-wordcloud
+cffi==1.15.0
