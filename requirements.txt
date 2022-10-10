@@ -1,0 +1,10 @@
+plotly
+streamlit
+streamlit-aggrid
+snowflake-connector-python
+sqlalchemy
+snowflake-sqlalchemy
+pandas
+wordcloud
+streamlit-wordcloud
+cffi==1.15.0
