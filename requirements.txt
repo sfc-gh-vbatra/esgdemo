@@ -2,8 +2,8 @@ plotly
 streamlit
 streamlit-aggrid
 snowflake-connector-python
-sqlalchemy
-snowflake-sqlalchemy
+snowflake-sqlalchemy==1.4.7
+sqlalchemy==1.4.49
 pandas
 wordcloud
 streamlit-wordcloud
